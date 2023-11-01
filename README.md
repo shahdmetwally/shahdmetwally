@@ -7,6 +7,9 @@ I am a Swedish/Egyptian programming student who is eager to gain experience in t
 - Javascript
 - C
 - C++
-### How to reach me 
+### More about me
+- linkedin: shahd hassan metwally
+- CV:
+
 
 ![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdmetwally&show_icons=true&theme=dracula)
