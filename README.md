@@ -9,3 +9,4 @@ I am a Swedish/Egyptian programming student who is eager to gain experience in t
 - C++
 ### How to reach me 
 
+![Shahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdmetwally&show_icons=true&theme=dracula)
